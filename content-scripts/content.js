@@ -18,8 +18,6 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
           .slide-image {
               height: auto;
               width: 20vw;
-              position: fixed;
-              z-index: 2;
           }
         </style>`
     );
