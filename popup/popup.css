@@ -1,0 +1,26 @@
+body {
+    width: 500px;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    background-color: yellow;
+    color: blue;
+}
+
+img {
+    border-radius: 50%;
+    width: 600px;
+}
+
+button {
+    background-color: #336dab;
+    border-radius: 5vw;
+    color: white;
+    padding: 2vw;
+    text-align: center;
+    font-size: 16px;
+}
